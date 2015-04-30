@@ -9,9 +9,9 @@
 
 ### Links
 
-* Twitter
-* Linkedin
-* about.me/scottbrown
+* [Twitter](http://twitter.com/sbrown)
+* [Linkedin](http://linkedin.com/in/sc0ttbr0wn)
+* [about.me/scottbrown](http://about.me/scottbrown)
 
 ### Bio
 
