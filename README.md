@@ -12,3 +12,14 @@
 * Twitter
 * Linkedin
 * about.me/scottbrown
+
+### Bio
+
+A 7 time startup founder with a proven history of taking companies from inception to exit. As the founder/CEO/CTO of companies like bounce.io, Kronovia, ColdSpark and others, Scott knows first hand the challenges of building software for the real world. An engineer at heart, Scott still spends part of every week writing code and scaling the business.
+
+### GitPrime
+
+GitPrime’s mission is to bring unprecedented visibility into enterprise software development. We use data buried deep within the codebase to create clear, easily understood analytics so that the whole organization — both technical and non-technical people alike — have a complete picture of what’s happening in engineering.
+
+Learn more at: http://gitprime.com
+
