@@ -12,11 +12,6 @@
 
 :bust_in_silhouette: [about.me/scottbrown](http://about.me/scottbrown)
 
-### Links
-
-* [Twitter](http://twitter.com/sbrown)
-* [Linkedin](http://linkedin.com/in/sc0ttbr0wn)
-* [about.me/scottbrown](http://about.me/scottbrown)
 
 ### Bio
 
@@ -26,5 +21,9 @@ A 7 time startup founder with a proven history of taking companies from inceptio
 
 GitPrime’s mission is to bring unprecedented visibility into enterprise software development. We use data buried deep within the codebase to create clear, easily understood analytics so that the whole organization — both technical and non-technical people alike — have a complete picture of what’s happening in engineering.
 
-Learn more at: http://gitprime.com
+Learn more at: http://gitprime.com or follow us @GitPrime
+
+### Are you Joe?
+
+[![ScreenShot](https://raw.github.com/stbrown/BusinessCard/master/gitprime_joe_video.png)](https://vimeo.com/gitprime/overview)
 
