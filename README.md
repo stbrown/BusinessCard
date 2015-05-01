@@ -6,9 +6,11 @@
 
 :iphone: 415-636-7095
 
-![alt tag](https://raw.github.com/stbrown/BusinessCard/master/icon_twitter_tiny.png) @sbrown
+![alt tag](https://raw.github.com/stbrown/BusinessCard/master/icon_twitter_tiny.png) [@sbrown](http://twitter.com/sbrown)
 
-![alt tag](https://raw.github.com/stbrown/BusinessCard/master/linkedin_icon.gif) linkedin.com/in/sc0ttbr0wn
+![alt tag](https://raw.github.com/stbrown/BusinessCard/master/linkedin_icon.gif) [linkedin.com/in/sc0ttbr0wn](http://linkedin.com/in/sc0ttbr0wn)
+
+:bust_in_silhouette: [about.me/scottbrown](http://about.me/scottbrown)
 
 ### Links
 
