@@ -1,6 +1,5 @@
 # Scott Brown
-
-|this is|a table|
+:email: scott@gitprime.com
 
 ![alt tag](https://raw.github.com/stbrown/BusinessCard/master/small_email_icon.gif) scott@gitprime.com
 
