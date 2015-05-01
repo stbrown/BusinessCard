@@ -1,9 +1,10 @@
 # Scott Brown
+
+:chart_with_upwards_trend: Chief Revenue Officer @ GitPrime
+
 :email: scott@gitprime.com
 
-![alt tag](https://raw.github.com/stbrown/BusinessCard/master/small_email_icon.gif) scott@gitprime.com
-
-![alt tag](https://raw.github.com/stbrown/BusinessCard/master/icon_tiny_phone.gif) 415-636-7095
+:iphone: 415-636-7095
 
 ![alt tag](https://raw.github.com/stbrown/BusinessCard/master/icon_twitter_tiny.png) @sbrown
 
