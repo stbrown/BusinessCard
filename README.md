@@ -1,4 +1,7 @@
 # Scott Brown
+
+|this is|a table|
+
 ![alt tag](https://raw.github.com/stbrown/BusinessCard/master/small_email_icon.gif) scott@gitprime.com
 
 ![alt tag](https://raw.github.com/stbrown/BusinessCard/master/icon_tiny_phone.gif) 415-636-7095
