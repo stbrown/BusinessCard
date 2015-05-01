@@ -21,7 +21,7 @@ A 7 time startup founder with a proven history of taking companies from inceptio
 
 GitPrime’s mission is to bring unprecedented visibility into enterprise software development. We use data buried deep within the codebase to create clear, easily understood analytics so that the whole organization — both technical and non-technical people alike — have a complete picture of what’s happening in engineering.
 
-Learn more at: http://gitprime.com or follow us @GitPrime
+Learn more at: http://gitprime.com or follow us [@GitPrime](http://twitter.com/gitprime)
 
 ### Are you Joe?
 
